@@ -24,7 +24,6 @@ namespace Lab2
             // To assign a value to an instance variable, we use a method called a SET accessor.
             // A class houses the entirety of the methods listed. The class "Program" contains the methods of dipslaying a message and producing the product of two integers.
             // An object is something that needs to be designated in order for the class do anything with it. Our objects "number1" and "number2" were built as regular INT variables and then we had the class execute the method of obtaining the product from the two objects we created. Likewise, "product" was an object created for the "number1" and "number2" objects, but we had to tell product what to do as it would not have accomplished anything by simply typing "Console.WriteLine(Product is {0}", product;" 
-
     }
 
 }
