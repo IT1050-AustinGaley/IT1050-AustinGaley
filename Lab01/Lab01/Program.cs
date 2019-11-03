@@ -2,12 +2,16 @@
 
 namespace Lab01
 {
-    class Program
+    class Comparrison
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from Austin J Galey!");
-            Console.ReadLine();
-        }
+            int x = 10;
+            x = 20;
+            x = 30;
+            x = 10;
+
+            Console.WriteLine("int x is",x);
+        }   
     }
 }
