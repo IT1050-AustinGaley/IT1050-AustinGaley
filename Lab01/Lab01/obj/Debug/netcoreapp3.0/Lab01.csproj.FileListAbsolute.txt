@@ -1,0 +1,11 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\bin\Debug\netcoreapp3.0\Lab01.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\bin\Debug\netcoreapp3.0\Lab01.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\bin\Debug\netcoreapp3.0\Lab01.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\bin\Debug\netcoreapp3.0\Lab01.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\bin\Debug\netcoreapp3.0\Lab01.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\bin\Debug\netcoreapp3.0\Lab01.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\obj\Debug\netcoreapp3.0\Lab01.csprojAssemblyReference.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\obj\Debug\netcoreapp3.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\obj\Debug\netcoreapp3.0\Lab01.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\obj\Debug\netcoreapp3.0\Lab01.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab01\Lab01\obj\Debug\netcoreapp3.0\Lab01.pdb

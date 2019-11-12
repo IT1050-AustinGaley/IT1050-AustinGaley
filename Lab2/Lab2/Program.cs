@@ -2,7 +2,7 @@
 
 namespace Lab2
 {
-    class Program
+    class Program2
     {       // Point of C# console application execution 
         static void Main(string[] args)
         {
