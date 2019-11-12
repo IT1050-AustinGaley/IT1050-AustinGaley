@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 3 Singular If Statement", "Lab 3 Singular If Statement\Lab 3 Singular If Statement.csproj", "{A317BADD-0836-4493-9C8D-019237DC155B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A317BADD-0836-4493-9C8D-019237DC155B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A317BADD-0836-4493-9C8D-019237DC155B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A317BADD-0836-4493-9C8D-019237DC155B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A317BADD-0836-4493-9C8D-019237DC155B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {387E29D8-1EEB-4F1E-A1AF-942716B4103B}
+	EndGlobalSection
+EndGlobal
