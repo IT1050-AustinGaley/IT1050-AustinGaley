@@ -6,21 +6,19 @@ namespace Lab03
     {
         static void Main(string[] args)
         {
-            int speedLimit;
-            int speed;
+            int cookies;
+            int cookiesJar;
 
-            Console.WriteLine("Enter Speed:");
+            Console.WriteLine("How many cookies are left in the jar?:");
 
-            speedLimit = 35;
-            speed = Convert.ToInt32(Console.ReadLine());
+           cookiesJar = 12;
+            cookies = Convert.ToInt32(Console.ReadLine());
 
-            if (speed > speedLimit)
-                Console.WriteLine("SLOW DOWN");
+            if (cookies == cookiesJar)
+                Console.WriteLine("It is True!");
 
             else
-                Console.WriteLine("Thank you for obeying the speedlimit citizen!");
-
-
+                Console.WriteLine("It is False!");
         }
     }
 }

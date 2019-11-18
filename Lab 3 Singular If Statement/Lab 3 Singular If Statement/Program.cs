@@ -6,17 +6,16 @@ namespace Lab3_Singular_If_Statement
     {
         static void Main(string[] args)
         {
-            int speedLimit;
-            int speed;
+            int speedLimit = 35;
+            int speed = 0;
+            while (speed < 35)
+            {
+                Console.WriteLine(speed);
+                speed = speed + 5;
 
-            Console.WriteLine("Enter Speed:");
-
-            speedLimit = 35;
-            speed = Convert.ToInt32(Console.ReadLine());
-
-            if (speed > speedLimit)
-                Console.WriteLine("SLOW DOWN");
-
+            }
+            if (speed > speedLimit) ;
+            Console.WriteLine("Slow Down");
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\obj\Debug\netcoreapp3.0\Lab 3 Temperature.csprojAssemblyReference.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\obj\Debug\netcoreapp3.0\Lab 3 Temperature.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\obj\Debug\netcoreapp3.0\Lab 3 Temperature.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\bin\Debug\netcoreapp3.0\Lab 3 Temperature.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\bin\Debug\netcoreapp3.0\Lab 3 Temperature.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\bin\Debug\netcoreapp3.0\Lab 3 Temperature.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\bin\Debug\netcoreapp3.0\Lab 3 Temperature.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\bin\Debug\netcoreapp3.0\Lab 3 Temperature.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\bin\Debug\netcoreapp3.0\Lab 3 Temperature.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\obj\Debug\netcoreapp3.0\Lab 3 Temperature.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab 3 Temperature\Lab 3 Temperature\obj\Debug\netcoreapp3.0\Lab 3 Temperature.pdb
