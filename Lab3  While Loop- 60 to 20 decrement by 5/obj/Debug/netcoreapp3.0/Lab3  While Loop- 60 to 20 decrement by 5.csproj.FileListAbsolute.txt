@@ -1,0 +1,11 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\bin\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\bin\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\bin\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\bin\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\bin\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\bin\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\obj\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.csprojAssemblyReference.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\obj\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\obj\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\obj\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab3  While Loop- 60 to 20 decrement by 5\obj\Debug\netcoreapp3.0\Lab3  While Loop- 60 to 20 decrement by 5.pdb

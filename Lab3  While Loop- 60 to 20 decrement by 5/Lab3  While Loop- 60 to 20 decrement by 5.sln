@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3  While Loop- 60 to 20 decrement by 5", "Lab3  While Loop- 60 to 20 decrement by 5.csproj", "{BAFB390D-FA33-41E2-9CB9-5B3B97EA9839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFB390D-FA33-41E2-9CB9-5B3B97EA9839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFB390D-FA33-41E2-9CB9-5B3B97EA9839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFB390D-FA33-41E2-9CB9-5B3B97EA9839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFB390D-FA33-41E2-9CB9-5B3B97EA9839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8302D3CB-26AC-4777-9E86-92B5185F3F9A}
+	EndGlobalSection
+EndGlobal
