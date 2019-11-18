@@ -6,30 +6,19 @@ namespace Lab_3_Temperature
     {
         static void Main(string[] args)
         {
-
-            int tempCounter; // number of the grade to be entered next
-
-            double fahrenheit; // grade value entered by the user
+            Console.WriteLine("Enter degrees in Farhenheit");
+            double fahrenheit = Convert.ToDouble(Console.ReadLine());
             double celsius;
+            celsius = (fahrenheit - 32d) * 5d / 9d;
 
+            if (fahrenheit > 90)
+                Console.WriteLine("\nIt is Hot");
+            if (fahrenheit < 40)
+                Console.WriteLine("\nIt is Cold");
 
-
-            tempCounter = 1; // initialize the loop counter
-
-            while (tempCounter <= 10)
-            {
-                Console.WriteLine("Enter temp:");
-                fahrenheit = Convert.ToDouble(Console.ReadLine());
-                celsius = (fahrenheit - 32d) * 5d / 9d;
-
-                tempCounter = tempCounter + 1;
-
-                if (celsius < 40)
-                    Console.WriteLine("It is cold");
-                if (celsius > 90)
-                    Console.WriteLine("it is hot");
-
-            }
+            Console.WriteLine("\nIt is");
+            Console.Write(celsius);
+            Console.WriteLine("\ndegrees in celsius");
 
         }
     }
