@@ -1,0 +1,11 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\bin\Debug\netcoreapp3.0\Lab4 if else Temps.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\bin\Debug\netcoreapp3.0\Lab4 if else Temps.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\bin\Debug\netcoreapp3.0\Lab4 if else Temps.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\bin\Debug\netcoreapp3.0\Lab4 if else Temps.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\bin\Debug\netcoreapp3.0\Lab4 if else Temps.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\bin\Debug\netcoreapp3.0\Lab4 if else Temps.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\obj\Debug\netcoreapp3.0\Lab4 if else Temps.csprojAssemblyReference.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\obj\Debug\netcoreapp3.0\Lab4 if else Temps.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\obj\Debug\netcoreapp3.0\Lab4 if else Temps.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\obj\Debug\netcoreapp3.0\Lab4 if else Temps.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 if else Temps\obj\Debug\netcoreapp3.0\Lab4 if else Temps.pdb
