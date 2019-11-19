@@ -1,0 +1,10 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\bin\Debug\netcoreapp3.0\Lab4 0-100 correction.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\bin\Debug\netcoreapp3.0\Lab4 0-100 correction.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\bin\Debug\netcoreapp3.0\Lab4 0-100 correction.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\bin\Debug\netcoreapp3.0\Lab4 0-100 correction.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\bin\Debug\netcoreapp3.0\Lab4 0-100 correction.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\bin\Debug\netcoreapp3.0\Lab4 0-100 correction.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\obj\Debug\netcoreapp3.0\Lab4 0-100 correction.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\obj\Debug\netcoreapp3.0\Lab4 0-100 correction.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\obj\Debug\netcoreapp3.0\Lab4 0-100 correction.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 0-100 correction\obj\Debug\netcoreapp3.0\Lab4 0-100 correction.pdb
