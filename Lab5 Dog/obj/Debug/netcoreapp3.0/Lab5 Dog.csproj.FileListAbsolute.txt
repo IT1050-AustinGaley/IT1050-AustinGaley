@@ -1,0 +1,11 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\obj\Debug\netcoreapp3.0\Lab5 Dog.csprojAssemblyReference.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\obj\Debug\netcoreapp3.0\Lab5 Dog.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\obj\Debug\netcoreapp3.0\Lab5 Dog.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\bin\Debug\netcoreapp3.0\Lab5 Dog.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\bin\Debug\netcoreapp3.0\Lab5 Dog.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\bin\Debug\netcoreapp3.0\Lab5 Dog.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\bin\Debug\netcoreapp3.0\Lab5 Dog.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\bin\Debug\netcoreapp3.0\Lab5 Dog.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\bin\Debug\netcoreapp3.0\Lab5 Dog.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\obj\Debug\netcoreapp3.0\Lab5 Dog.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab5 Dog\obj\Debug\netcoreapp3.0\Lab5 Dog.pdb
