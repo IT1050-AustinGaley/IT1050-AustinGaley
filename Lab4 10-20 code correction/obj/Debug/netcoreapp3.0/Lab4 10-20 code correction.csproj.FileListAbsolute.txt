@@ -8,3 +8,4 @@ C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 10-20 cod
 C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 10-20 code correction\obj\Debug\netcoreapp3.0\Lab4 10-20 code correction.AssemblyInfo.cs
 C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 10-20 code correction\obj\Debug\netcoreapp3.0\Lab4 10-20 code correction.dll
 C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 10-20 code correction\obj\Debug\netcoreapp3.0\Lab4 10-20 code correction.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Lab4 10-20 code correction\obj\Debug\netcoreapp3.0\Lab4 10-20 code correction.csprojAssemblyReference.cache
