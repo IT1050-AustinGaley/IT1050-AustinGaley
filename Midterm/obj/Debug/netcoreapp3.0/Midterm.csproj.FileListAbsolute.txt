@@ -1,0 +1,11 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\bin\Debug\netcoreapp3.0\Midterm.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\bin\Debug\netcoreapp3.0\Midterm.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\bin\Debug\netcoreapp3.0\Midterm.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\bin\Debug\netcoreapp3.0\Midterm.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\bin\Debug\netcoreapp3.0\Midterm.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\bin\Debug\netcoreapp3.0\Midterm.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\obj\Debug\netcoreapp3.0\Midterm.csprojAssemblyReference.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\obj\Debug\netcoreapp3.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\obj\Debug\netcoreapp3.0\Midterm.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\obj\Debug\netcoreapp3.0\Midterm.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm\obj\Debug\netcoreapp3.0\Midterm.pdb
