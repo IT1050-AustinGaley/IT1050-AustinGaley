@@ -1,0 +1,11 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\bin\Debug\netcoreapp3.0\Midterm second While Loop.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\bin\Debug\netcoreapp3.0\Midterm second While Loop.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\bin\Debug\netcoreapp3.0\Midterm second While Loop.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\bin\Debug\netcoreapp3.0\Midterm second While Loop.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\bin\Debug\netcoreapp3.0\Midterm second While Loop.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\bin\Debug\netcoreapp3.0\Midterm second While Loop.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\obj\Debug\netcoreapp3.0\Midterm second While Loop.csprojAssemblyReference.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\obj\Debug\netcoreapp3.0\Midterm second While Loop.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\obj\Debug\netcoreapp3.0\Midterm second While Loop.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\obj\Debug\netcoreapp3.0\Midterm second While Loop.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm second While Loop\obj\Debug\netcoreapp3.0\Midterm second While Loop.pdb
