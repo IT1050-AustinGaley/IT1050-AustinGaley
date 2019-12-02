@@ -1,0 +1,10 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\bin\Debug\netcoreapp3.0\Midterm fourth While Loop.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\bin\Debug\netcoreapp3.0\Midterm fourth While Loop.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\bin\Debug\netcoreapp3.0\Midterm fourth While Loop.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\bin\Debug\netcoreapp3.0\Midterm fourth While Loop.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\bin\Debug\netcoreapp3.0\Midterm fourth While Loop.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\bin\Debug\netcoreapp3.0\Midterm fourth While Loop.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\obj\Debug\netcoreapp3.0\Midterm fourth While Loop.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\obj\Debug\netcoreapp3.0\Midterm fourth While Loop.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\obj\Debug\netcoreapp3.0\Midterm fourth While Loop.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm fourth While Loop\obj\Debug\netcoreapp3.0\Midterm fourth While Loop.pdb
