@@ -7,25 +7,17 @@ namespace Lab6
         static void Main(string[] args)
         {
             string[] months = new string[12] { "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" };
+            for (int m =0; m < months.Length; m++)
+            {
+                Console.WriteLine(months[m]);
+            }
 
-            Console.WriteLine(months[0]);
-            Console.WriteLine(months[1]);
-            Console.WriteLine(months[2]);
-            Console.WriteLine(months[3]);
-            Console.WriteLine(months[4]);
-            Console.WriteLine(months[5]);
-            Console.WriteLine(months[6]);
-            Console.WriteLine(months[7]);
-            Console.WriteLine(months[8]);
-            Console.WriteLine(months[9]);
-            Console.WriteLine(months[10]);
-            Console.WriteLine(months[11]);
 
             string[] seasons = new string[4] { "Spring", "Summer", "Fall", "Winter" };
-            Console.WriteLine("\n{0}",seasons[0]);
-            Console.WriteLine(seasons[1]);
-            Console.WriteLine(seasons[2]);
-            Console.WriteLine(seasons[3]);
+            for (int s = 0; s < seasons.Length; s++)
+            {
+                Console.WriteLine("\n{0}", seasons[s]);
+            }
 
             int[] ranNum = new int[1000];
             Random random = new Random();
@@ -36,14 +28,12 @@ namespace Lab6
 
             string[] names = { "Al Dente", "Anna Graham", "Earle Bird", "Ginger Rayle", "Iona Ford" };
 
-            int i = 1;
-            while (i < names.Length)
+           
+            for (int i = 0; i < names.Length; i++)
             {
-                i++;
-
-                Console.WriteLine("\n{0}", names[0]);
+                Console.WriteLine(names[i]);
             }
-
+            Console.ReadLine();
 
 
         }
