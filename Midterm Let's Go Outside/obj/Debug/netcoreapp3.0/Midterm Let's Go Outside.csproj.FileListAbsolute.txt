@@ -1,0 +1,11 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\obj\Debug\netcoreapp3.0\Midterm Let's Go Outside.csprojAssemblyReference.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\obj\Debug\netcoreapp3.0\Midterm Let's Go Outside.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\obj\Debug\netcoreapp3.0\Midterm Let's Go Outside.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\bin\Debug\netcoreapp3.0\Midterm Let's Go Outside.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\bin\Debug\netcoreapp3.0\Midterm Let's Go Outside.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\bin\Debug\netcoreapp3.0\Midterm Let's Go Outside.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\bin\Debug\netcoreapp3.0\Midterm Let's Go Outside.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\bin\Debug\netcoreapp3.0\Midterm Let's Go Outside.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\bin\Debug\netcoreapp3.0\Midterm Let's Go Outside.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\obj\Debug\netcoreapp3.0\Midterm Let's Go Outside.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm Let's Go Outside\obj\Debug\netcoreapp3.0\Midterm Let's Go Outside.pdb

@@ -1,0 +1,11 @@
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\bin\Debug\netcoreapp3.0\Midterm output for given code.exe
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\bin\Debug\netcoreapp3.0\Midterm output for given code.deps.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\bin\Debug\netcoreapp3.0\Midterm output for given code.runtimeconfig.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\bin\Debug\netcoreapp3.0\Midterm output for given code.runtimeconfig.dev.json
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\bin\Debug\netcoreapp3.0\Midterm output for given code.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\bin\Debug\netcoreapp3.0\Midterm output for given code.pdb
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\obj\Debug\netcoreapp3.0\Midterm output for given code.csprojAssemblyReference.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\obj\Debug\netcoreapp3.0\Midterm output for given code.AssemblyInfoInputs.cache
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\obj\Debug\netcoreapp3.0\Midterm output for given code.AssemblyInfo.cs
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\obj\Debug\netcoreapp3.0\Midterm output for given code.dll
+C:\Users\Auzzy\source\repos\IT1050-AustinGaley\IT1050-AustinGaley\Midterm output for given code\obj\Debug\netcoreapp3.0\Midterm output for given code.pdb
